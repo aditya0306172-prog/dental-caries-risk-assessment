@@ -13,6 +13,18 @@ This project aims to develop machine learning models for assessing dental caries
 - Train multiple machine learning models
 - Compare model performance
 - Use explainable AI to understand predictions
+- 
+ ## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- SHAP
+- Imbalanced-learn
 
 ---
 
