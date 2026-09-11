@@ -26,6 +26,18 @@ This project aims to develop machine learning models for assessing dental caries
 - SHAP
 - Imbalanced-learn
 
+## Machine Learning Workflow
+
+1. Data collection
+2. Data preprocessing
+3. Exploratory data analysis
+4. Feature engineering
+5. Handling class imbalance
+6. Model training
+7. Model evaluation
+8. Model comparison
+9. Explainable AI using SHAP
+10. Dental caries risk prediction
 ---
 
 ## Project Structure
