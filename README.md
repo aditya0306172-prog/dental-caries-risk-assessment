@@ -2,6 +2,10 @@
 
 A supervised machine-learning project that predicts **dental caries and periodontal disease risk** from real CDC NHANES clinical survey data using Logistic Regression, Random Forest, and XGBoost — with SMOTE oversampling, SHAP explainability, and publication-quality visualisations.
 
+## Project Objective
+
+This project aims to develop machine learning models for assessing dental caries risk using relevant health and demographic features. The project focuses on data preprocessing, model comparison, evaluation, and explainable machine learning.
+
 ---
 
 ## Project Structure
