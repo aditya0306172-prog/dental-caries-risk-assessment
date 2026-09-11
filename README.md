@@ -6,6 +6,14 @@ A supervised machine-learning project that predicts **dental caries and periodon
 
 This project aims to develop machine learning models for assessing dental caries risk using relevant health and demographic features. The project focuses on data preprocessing, model comparison, evaluation, and explainable machine learning.
 
+## Key Goals
+
+- Analyze dental health-related data
+- Identify important risk factors
+- Train multiple machine learning models
+- Compare model performance
+- Use explainable AI to understand predictions
+
 ---
 
 ## Project Structure
